@@ -1,16 +1,14 @@
-# Data Mining Analysis for Diabetes Prediction
-This project aims to explore and understand patterns in the data through mining and analysis of diabetes prediction data sets, and build prediction models to help identify patients with diabetes. Below is a summary of the main steps and results of the project:
+# Data Mining Analysis for this dataset
+This project aims to explore and understand patterns in the data through mining and analysis of diabetes prediction data sets, and build prediction models to help identify patients with diabetes. 
 Although the performance of the model did not reach a high level on the current data set, by continuously trying different methods, including feature engineering and ensemble learning, we gained a deep understanding of the data and provided a basis for subsequent improvements.
-Understand the main steps and decision-making process of data mining by reading the code and reports.
-Tuned random forest models and tried gradient boosting tree models are provided for further optimization or comparison with other models.
 
 # Next steps:
 The technology of time series analysis can more comprehensively predict the incidence of diseases under different circumstances and improve the interpretability of the model.
 Time series forecasting in healthcare is rapidly developing for its practical significance, with models playing a key role in predicting disease progression, estimating mortality, and assessing time-dependent risks. I summarized some well-known data sets and tools that demonstrate the huge potential of time series forecasting in advancing medical solutions.
 
-## data set
+## Finding the datasets with time series analysis capabilities:
 
-In the medical field, several datasets stand out.
+several datasets stand out in the medical field could be condidered:
 
 PTB -
 
@@ -26,7 +24,7 @@ MIMIC-III is a public dataset containing ICD-9 codes, vital signs, medications, 
 
 CirCor DigiScope is the largest pediatric heart murmur dataset with heart murmur annotations.
 
-## Model checkpoints and toolkits
+## Model checkpoints and toolkits:
 
 A variety of model checkpoints and toolkits have emerged targeting healthcare applications.
 
