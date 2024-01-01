@@ -5,7 +5,7 @@ Understand the main steps and decision-making process of data mining by reading 
 Tuned random forest models and tried gradient boosting tree models are provided for further optimization or comparison with other models.
 
 # Next steps:
-# HealthcareApps
+The technology of time series analysis can more comprehensively predict the incidence of diseases under different circumstances and improve the interpretability of the model.
 Time series forecasting in healthcare is rapidly developing for its practical significance, with models playing a key role in predicting disease progression, estimating mortality, and assessing time-dependent risks. I summarized some well-known data sets and tools that demonstrate the huge potential of time series forecasting in advancing medical solutions.
 
 ## data set
